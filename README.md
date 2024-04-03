@@ -1,12 +1,20 @@
 # Fractals🎩
 
-<u>Initial readme file.</u> 
+<u>Currently on-hold due to more important stuff to do.</u> 
 
-<b>Short to-do is</b>: theory/notes -> implementation -> documentation of the mandelbrot(probably) in java.
+<b>Roadmap</b>: 
+* Theory / Notes.
+* Implementation in Java.
+* Further on documentation.
+* Last touches / cleanup.
 
-<b>Long to-do is</b>: some more advanced fractal like a julia, a mandelbulb, animation or whatever I find interesting at that time.
+<b>Ideas:</b>: 
+* Julia set
+* Mandelbulb
+* Animation
 
-<b>MD to-do</b>: revamp the first equations so they look prettier.
+<b>Markdown</b>: 
+* Write again the first equations using the table generator so they look better.
 
 
 ## Theory - Math🧮
