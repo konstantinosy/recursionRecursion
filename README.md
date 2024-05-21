@@ -4,7 +4,7 @@
 
 <b>Roadmap</b>: 
 * Theory / Notes.
-* Implementation in Java.
+* Implementation.
 * Further on documentation.
 * Last touches / cleanup.
 
