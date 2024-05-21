@@ -8,7 +8,7 @@
 * Further on documentation.
 * Last touches / cleanup.
 
-<b>Ideas:</b>: 
+<b>Ideas:</b>
 * Julia set
 * Mandelbulb
 * Animation
