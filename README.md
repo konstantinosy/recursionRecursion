@@ -1,5 +1,7 @@
 # Fractals🎩
 
+My journey into learning what fractals are and how to see them on my computer.
+
 <b>Roadmap</b>: 
 * Theory / Notes.
 * Implementation.
