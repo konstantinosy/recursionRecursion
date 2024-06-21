@@ -1,20 +1,15 @@
 # Fractals🎩
 
-<u>Currently on-hold due to more important stuff to do.</u> 
-
 <b>Roadmap</b>: 
 * Theory / Notes.
 * Implementation.
 * Further on documentation.
 * Last touches / cleanup.
 
-<b>Ideas:</b>
-* Julia set
-* Mandelbulb
-* Animation
-
-<b>Markdown</b>: 
-* Write again the first equations using the table generator so they look better.
+<b>Ideas later down the road:</b>
+* Julia set.
+* Mandelbulb.
+* Animation.
 
 
 ## Theory - Math🧮
